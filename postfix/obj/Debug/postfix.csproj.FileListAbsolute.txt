@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\postfix\bin\Debug\postfix.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\postfix\bin\Debug\postfix.exe
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\postfix\bin\Debug\postfix.pdb
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\postfix\obj\Debug\postfix.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\postfix\obj\Debug\postfix.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\postfix\obj\Debug\postfix.exe
+C:\Users\LENOVO\OneDrive\Desktop\training on stack\postfix\obj\Debug\postfix.pdb
